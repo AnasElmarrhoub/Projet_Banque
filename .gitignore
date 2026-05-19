@@ -1,0 +1,35 @@
+# ===========================
+# Java / Maven build outputs
+# ===========================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ===========================
+# Eclipse IDE files
+# ===========================
+.classpath
+.project
+.settings/
+bin/
+
+# ===========================
+# Database credentials config
+# ===========================
+db.properties
+
+# ===========================
+# Generated ticket / journal files
+# ===========================
+Ticket_*.txt
+journal_banque.txt
+
+# ===========================
+# OS / Editor artefacts
+# ===========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

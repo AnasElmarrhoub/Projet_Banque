@@ -1,0 +1,5 @@
+# Copy this file to db.properties and fill in your credentials.
+# db.properties is excluded from version control.
+db.url=jdbc:mysql://localhost:3306/BanqueINPT
+db.user=YOUR_DB_USER
+db.password=YOUR_DB_PASSWORD
