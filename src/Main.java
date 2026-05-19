@@ -102,10 +102,7 @@ public class Main {
         }
     }
 
-    /**
-     * Deletes all rows from the database tables to provide a clean slate for the demo.
-     * Silently continues if the database is unavailable.
-     */
+    
     private static void nettoyerBD() {
         try {
             Connection conn = ConnexionBD.getConnection();
